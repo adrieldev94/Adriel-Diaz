@@ -3,7 +3,7 @@
 <h1 align="center">Hi, i'm Adriel Diaz</h1>
 </div>
 <img src ="DEF-5.jpg" alt ="A southern right whale. From my hometown."></img> 
-<p align="center">A Southern Right Whale, from my hometown. </p>
+<p align="center">A Southern Right Whale, from my hometown 🇦🇷 </p>
 
 
 <h2>About me 😀</h2>
