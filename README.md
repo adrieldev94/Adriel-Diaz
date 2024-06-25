@@ -1,7 +1,7 @@
 <div align ="center">
 <h1 align="center">Hi, i'm Adriel Diaz</h1>
 </div>
-<img scr = "https://i.imgur.com/Sj1WtVB.jpeg" alt = "Southern Right Whale. From my home area">
+!(https://i.imgur.com/Sj1WtVB.jpeg)
 
 
 About me
