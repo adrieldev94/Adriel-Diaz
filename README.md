@@ -3,7 +3,7 @@
 </div>
 <img src ="0000103942.jpg" alt ="A southern right whale. From my hometown."></img> 
 
-<p align="center"></p>
+<p align="center">A southern right whale. From my hometown. </p>
 
 
 About me
