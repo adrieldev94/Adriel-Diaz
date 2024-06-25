@@ -1,7 +1,7 @@
 <div align ="center">
 <h1 align="center">Hi, i'm Adriel Diaz</h1>
 </div>
-!(https://i.imgur.com/Sj1WtVB.jpeg)
+<img src ="0000103942.jpg"> 
 
 
 About me
